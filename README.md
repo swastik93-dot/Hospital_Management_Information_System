@@ -2,7 +2,7 @@
 
 ## Overview
 This project is a static software application developed using Java Swing for the graphical user interface, MySQL for the database, and JDBC for connectivity. 
-The **Hospital Management Information System** aims to assist doctors and hospital staff in organizing patient records effectively and in a standardized format, ensuring authentication security.
+The **Hospital Management Information System** aims to assist doctors and hospital staff in organizing patient records effectively and in a standardized format, ensuring authentication security.platform - Netbeans , Pycharm , SQL Workbench
 
 ## Features
 - **User Authentication:** Users (doctors or authenticated personnel) are required to log in with their unique username and password to access the information, ensuring privacy and security.
@@ -35,5 +35,6 @@ The **Hospital Management Information System** aims to assist doctors and hospit
 ## Support
 For any inquiries or support regarding the application, please contact swastikdeshmukh7@gmail.com.
 
-## Note
-It is advised to implement additional security measures before deploying it in a production environment.
+## <span style="font-size:larger;">Note</span>
+It is advised to implement additional security measures before deploying it in a production environment. **Developers can easily integrate and customize new features.**
+
